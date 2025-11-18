@@ -23,8 +23,8 @@ Sou um **desenvolvedor C#** em início de carreira, apaixonado por **programaç�
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- [E-mail](mailto:seuemail@exemplo.com)  
+- [LinkedIn](https://www.linkedin.com/in/gabriel-luzzim-645964241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- [E-mail](gabrielvidal07@outlook.com.br)  
 
 ---
 
