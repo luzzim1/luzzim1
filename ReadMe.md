@@ -1,18 +1,31 @@
-# 💫 About Me:
-🔭 Estudante de ciência da computação <br>⚡ Formado no curso técnico de T.I<br>👯 Estagiário de desenvolvimenro back-end utilizando tecnologias como C#/.NET<br>🤝 Boa comunicação e trabalho em equipe<br>🌱 Conhecimento sobre desenvolvimento back-end, banco de dados SQL Server e APIs.<br>
+# Olá, eu sou o Gabriel 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielluzzim) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luzzim1&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luzzim1&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luzzim1&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Sou um **desenvolvedor C#** em início de carreira, apaixonado por **programação, resolução de problemas e tecnologia**. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luzzim1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Tecnologias e ferramentas
+- **Linguagens:** C#, Python, SQL
+- **Frameworks:** .NET Core, ASP.NET, Entity Framework
+- **Front-end:** Blazor, Razor, Radzen
+- **Banco de dados:** SQL Server
+- **Outras:** Git, GitHub, REST APIs, testes automatizados com Moq
+
+---
+
+## 🚀 Projetos recentes
+- **Sistema de Playoffs da NBA (C#):** Simula torneios com regras detalhadas, armazenamento em banco de dados e interface interativa.  
+- **Aplicativo de reconhecimento facial (Python):** Integração com banco de dados e sistema de autenticação.  
+- **Projeto de Reserva de Salas (C#):** Arquitetura em 3 camadas, padrões de Inversão de Controle e testes de unidade.  
+
+*(Links para os repositórios podem ser adicionados aqui)*
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [E-mail](mailto:seuemail@exemplo.com)  
+
+---
+
+> "Sempre aprendendo, sempre evoluindo."
