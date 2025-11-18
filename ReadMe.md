@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de ciência da computação <br>⚡ Formado no curso técnico de T.I<br>👯 A procura do primeiro emprego na área<br>🤝 Boa comunicação e trabalho em equipe<br>🌱 Conhecimento sobre programação<br>
+🔭 Estudante de ciência da computação <br>⚡ Formado no curso técnico de T.I<br>👯 Estagiário de desenvolvimenro back-end utilizando tecnologias como C#/.NET<br>🤝 Boa comunicação e trabalho em equipe<br>🌱 Conhecimento sobre desenvolvimento back-end, banco de dados SQL Server e APIs.<br>
 
 
 ## 🌐 Socials:
