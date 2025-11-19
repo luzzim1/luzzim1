@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel 👋
 
-Sou um **desenvolvedor C#** em início de carreira, apaixonado por **programação, resolução de problemas e tecnologia**. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
+Sou um **desenvolvedor back-end com foco em C#** em início de carreira, com foco em **desenvolvimento, resolução de problemas e tecnologia**. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
 
 ---
 
