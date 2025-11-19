@@ -14,9 +14,8 @@ Sou um **desenvolvedor C#** em início de carreira, apaixonado por **programaç�
 ---
 
 ## 🚀 Projetos recentes
-- **Sistema de Playoffs da NBA (C#):** Simula torneios com regras detalhadas, armazenamento em banco de dados e interface interativa.  
-- **Aplicativo de reconhecimento facial (Python):** Integração com banco de dados e sistema de autenticação.  
-- **Projeto de Reserva de Salas (C#):** Arquitetura em 3 camadas, padrões de Inversão de Controle e testes de unidade.  
+- **Projeto universitário com foco em reciclagem consciente, utilizando integração com banco de dados, mapa para localizar ponto de coleta via CEP, sistema de autenticação e ranking de usuários.  
+
 
 *(Links para os repositórios podem ser adicionados aqui)*
 
