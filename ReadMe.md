@@ -14,7 +14,7 @@ Sou um **desenvolvedor back-end com foco em C#** em início de carreira, com foc
 ---
 
 ## 🚀 Projetos recentes
-- **Projeto universitário com foco em reciclagem consciente, utilizando integração com banco de dados, mapa para localizar ponto de coleta via CEP, sistema de autenticação e ranking de usuários.  
+Projeto universitário com foco em reciclagem consciente, utilizando integração com banco de dados, mapa para localizar ponto de coleta via CEP, sistema de autenticação e ranking de usuários.  
 
 
 *((https://descartecerto.azurewebsites.net)*
