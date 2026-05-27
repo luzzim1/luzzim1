@@ -5,11 +5,11 @@ Sou um **desenvolvedor back-end  júnior com foco em .NET** em início de carrei
 ---
 
 ## 🔧 Tecnologias e ferramentas
-- **Linguagens:** C#, Python, SQL
+- **Linguagens:** C#, JavaScript, Python, SQL
 - **Frameworks:** .NET Core, ASP.NET, Entity Framework
-- **Front-end:** Blazor, Razor, Radzen
-- **Banco de dados:** SQL Server
-- **Outras:** Git, GitHub, REST APIs, testes automatizados com Moq
+- **Front-end:** Blazor, Razor, Radzen, Angular, React
+- **Banco de dados:** SQL Server, IBM DB2
+- **Outras:** Git, GitHub, APIs REST, testes automatizados com Moq e xUnit
 
 ---
 
@@ -17,7 +17,7 @@ Sou um **desenvolvedor back-end  júnior com foco em .NET** em início de carrei
 Projeto universitário com foco em reciclagem consciente, utilizando integração com banco de dados, mapa para localizar ponto de coleta via CEP, sistema de autenticação e ranking de usuários.  
 
 
-*((https://descartecerto.azurewebsites.net)*
+*https://descartecerto.azurewebsites.net*
 
 ---
 
