@@ -95,4 +95,4 @@ Projeto universitário desenvolvido com foco em **reciclagem consciente e descar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Luzzim-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-luzzim-645964241)
 
-[![Email](https://img.shields.io/badge/Email-gabrielvidal07%40outlook.com.br-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:gabrielvidal07@outlook.com.br)
+[![Email](https://img.shields.io/badge/Email-gabrielvidal07%40outlook.com.br-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](gabrielvidal07@outlook.com.br)
