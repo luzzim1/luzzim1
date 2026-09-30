@@ -25,6 +25,3 @@ Projeto universitário com foco em reciclagem consciente, utilizando integraçã
 - [LinkedIn](https://www.linkedin.com/in/gabriel-luzzim-645964241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - [E-mail](gabrielvidal07@outlook.com.br)  
 
----
-
-> "Sempre aprendendo, sempre evoluindo."
