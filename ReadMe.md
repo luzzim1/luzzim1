@@ -59,6 +59,7 @@ Aplicação de gerenciamento financeiro desenvolvida com foco em praticar concei
 `C#` `ASP.NET Core` `SQL Server` `Entity Framework` `Angular` `Docker` `xUnit` `Moq`
 
 > Projeto em desenvolvimento.
+> Link do repositório: https://github.com/luzzim1/Fintrack
 
 ---
 
