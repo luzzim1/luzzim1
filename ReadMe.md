@@ -4,7 +4,7 @@
 
 Sou desenvolvedor de software em início de carreira, com experiência no desenvolvimento e manutenção de aplicações utilizando **C#, .NET, ASP.NET, SQL Server e APIs REST**.
 
-Atualmente, venho aprofundando meus conhecimentos em desenvolvimento **back-end e full stack com .NET**, APIs, bancos de dados, testes automatizados, Docker e boas práticas de desenvolvimento.
+Atualmente, venho aprofundando meus conhecimentos em desenvolvimento **back-end e full stack com .NET**, Angular, APIs, bancos de dados, testes automatizados, Docker e boas práticas de desenvolvimento.
 
 ---
 
